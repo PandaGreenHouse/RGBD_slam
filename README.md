@@ -6,6 +6,6 @@
 #Constructs the textured mesh model and saves it.
 This project is based on KinectFusion.
 You can see the demos from this url. https://drive.google.com/file/d/1SFsmzfAxfdBWLT7f3gZVXkVl0-Ckur_2/view?usp=share_link
-my email:greenhouse0493@gmail.com
+my email:ppeng0674@gmail.com
 
 
